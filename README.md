@@ -48,6 +48,6 @@ Below is an example of the WordCloud from Ethereum thats shows the most frequent
 
 ![alt WC](imgs/eth_wc.png)
 
-An Example of Bitcoin Name Entity Recognition shows ...
+An Example of Bitcoin Name Entity Recognition shows Russian and Ukraine appearing in a number of articles as it relates to todays news and how allows one to further dive into the subject to understand how these named entities are related to bitcoin in the context of the media.
 
 ![alt WC](imgs/btc_ner.jpg)
