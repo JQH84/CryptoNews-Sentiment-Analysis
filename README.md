@@ -1,10 +1,6 @@
 # CryptoNews-Sentiment-Analysis
 
-## Dataset
-
-All data was collected from the [NewsAPI](https://newsapi.org/) service
-
-## Objective
+## Summary 
 
 The Following Notebook consists of three parts to with several NLP techniques applied on Cryptocurrency related news. The analysis is focused on the two major cryptocurrencies of today Bitcoin and Ethereum.
 
@@ -13,6 +9,8 @@ The notebook is split into the following sections :
 - Sentiment Analysis from the collected news article texts
 - Frequency analysis and WordCloud based on the news article text
 - Name Entity Recognition analysis and rendering based on the collected data.
+
+All data was collected from the [NewsAPI](https://newsapi.org/) service
 
 ## Results and Observation
 
